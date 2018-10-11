@@ -1,0 +1,15 @@
+{
+  "name": "callback_handler_serverless_container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/callback_handler_serverless"
+  },
+  "author": "Jonah Usadi <jonahusadi@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
